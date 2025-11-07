@@ -1,6 +1,6 @@
 # Tesis: Optimización con Autoorganización Crítica (SOC)
 
-Este repositorio contiene el código y los resultados de las simulaciones para mi tesis de [SU TIPO DE TESIS, ej. Maestría/Grado] sobre la aplicación de la búsqueda de Autoorganización Crítica (SOC Search) en problemas de optimización combinatoria.
+Este repositorio contiene el código y los resultados de las simulaciones para mi tesis de Maestría sobre la aplicación de la búsqueda de Autoorganización Crítica (SOC Search) en problemas de optimización combinatoria.
 
 **Problemas Investigados:**
 1.  Modelo de Spin Glass de Ising
